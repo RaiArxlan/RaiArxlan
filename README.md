@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @RaiArxlan, a Full-Stack Developer with 4+ years of experience
-- 👀 I’m interested in web & desktop application development
-- 🌱 I’m always learning and trying new ideas related to .NET & .NET Core, ASP.NET & ASP.NET Core, Windowns Forms, ReactJS, C#, SQL, JavaScript.
-- 💞️ I’m looking to collaborate on open source, erp and freelance projects
+I am a results-driven, customer-focused, and articulate Full-Stack Software Engineer with 5+ years of experience. An expert in technologies like 
+
+1. Web Development [ASP.NET - Core MVC | WebForms | API | Razor Pages]
+2. Desktop Development [Windows Forms Apps]
+3. Programming Languages [C# | TypeScript | JavaScript]
+4. Relational Databases [MS SQL Server | Azure Data Warehouse | ADO.NET | T-SQL | EF Core]
+5. Non-Relational Databases [Azure Cosmos DB]
+6. Reporting & Analytics [SSRS RDL & Power BI]
+7. Front-End Development [HTML | CSS | Bootstrap | jQuery | JavaScript | ReactJS | Angular]
+8. Others [Git | Azure DevOps | CI/CD]
+
+- 💞️ I’m looking to collaborate on open source, ERP, CMS, and freelance projects
 - 📫 You can leave a message or email me @ raiarslan4671@gmail.com
 
 <!---
