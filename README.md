@@ -1,4 +1,4 @@
-I am a results-driven, customer-focused, and articulate Full-Stack Software Engineer with 5+ years of experience. An expert in technologies like 
+I am a results-driven, customer-focused, and articulate Full-Stack Software Engineer with 6+ years of experience. An expert in technologies like 
 
 1. Web Development [ASP.NET - Core MVC | WebForms | API | Razor Pages]
 2. Desktop Development [Windows Forms Apps]
