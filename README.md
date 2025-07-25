@@ -12,7 +12,9 @@ I am a results-driven, customer-focused, and articulate Full-Stack Software Engi
 10. Others: Git, Azure DevOps, CI/CD, Project Management, SCRUM
 
 - 💞️ I’m looking to collaborate on open source, ERP, CMS, and freelance projects
-- 📫 You can leave a message or email me @ raiarslan4671@gmail.com
+- 📫 You can leave a message or email me @ raiarxlan@gmail.com
+- You can reach me on [Linked In](https://www.linkedin.com/in/raiarxlan/)
+- Also, you can find me on [GitHub](https://github.com/RaiArxlan/)
 
 <!---
 RaiArxlan/RaiArxlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
