@@ -1,15 +1,16 @@
 I am a results-driven, customer-focused, and articulate Full-Stack Software Engineer with 6+ years of experience. An expert in technologies like
 
-1. Web Development: ASP.NET Core MVC, API, Razor Pages, WebForms
-2. Desktop Development: Windows Forms Apps
-3. Programming Languages: C#, TypeScript, JavaScript
-4. Databases: MS SQL Server, SQLite, MySQL
-5. Azure Data Services: Azure Data Warehouse, Azure Cosmos DB
-6. Analytics & Reporting: Power BI, SSRS RDL
-7. Front-End Development: JavaScript, Angular, ReactJS, HTML, CSS, Bootstrap, jQuery
-8. Architecture & Design Patterns: Clean Architecture, DDD, TDD, Repository Pattern, SOLID
-9. ETL & Data Integration: Azure Data Factory, Azure Synapse Pipelines, SSIS
-10. Others: Git, Azure DevOps, CI/CD, Project Management, SCRUM
+1. Programming Languages: C#, TypeScript, JavaScript
+2. Web Development: ASP.NET Core MVC, Web API, Razor Pages, Web Forms
+3. Front-End Development: Angular, ReactJS, HTML, CSS, Bootstrap, jQuery
+4. Desktop Development: Windows Forms Apps
+5. Databases: MS SQL Server, Postgres, SQLite, MySQL
+6. Cloud & Data Services: Azure Data Warehouse, Azure Cosmos DB
+7. ETL & Data Integration: Azure Data Factory, Azure Synapse Pipelines, SSIS
+8. Analytics & Reporting: Power BI, SSRS RDL
+9. Architecture & Design: Patterns Clean Architecture, DDD, TDD, SOLID, Repository Pattern
+10. Distributed Systems & DevOps: Microservices Architecture, Cloud-Native Development, Docker, Kubernetes, Orchestration
+11. Tools & Processes: Git, Azure DevOps, CI/CD, Project Management, SCRUM, Agile
 
 - 💞️ I’m looking to collaborate on open source, ERP, CMS, and freelance projects
 - 📫 You can leave a message or email me @ raiarxlan@gmail.com
