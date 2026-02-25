@@ -8,7 +8,7 @@ I am a results-driven, customer-focused, and articulate Full-Stack Software Engi
 6. Cloud & Data Services: Azure Data Warehouse, Azure Cosmos DB
 7. ETL & Data Integration: Azure Data Factory, Azure Synapse Pipelines, SSIS
 8. Analytics & Reporting: Power BI, SSRS RDL
-9. Architecture & Design: Patterns Clean Architecture, DDD, TDD, SOLID, Repository Pattern
+9. Architecture & Design Patterns: Clean Architecture, DDD, TDD, SOLID, Repository Pattern
 10. Distributed Systems & DevOps: Microservices Architecture, Cloud-Native Development, Docker, Kubernetes, Orchestration
 11. Tools & Processes: Git, Azure DevOps, CI/CD, Project Management, SCRUM, Agile
 
